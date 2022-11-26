@@ -31,7 +31,7 @@ curl -fsSL https://git.io/termux | bash -s -- --zsh --python --neovim
 **-e** or **--elixir** setup a erlang, and elixir installation<br>
 
 # Security
-`https://git.io/termux` is a short url which resolves to <br>`https://raw.githubusercontent.com/onlurking/termux/master/termux.sh`
+
 
 Piping commands from internet to shell is considered bad practice, <br>and there is lot of discussion on the internet: 
 - [Hacker News Discussion](https://news.ycombinator.com/item?id=12766049)
